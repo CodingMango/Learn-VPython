@@ -8,9 +8,10 @@ Or some of them are written by me.
 For your understanding, turn to the comments written beside the code. Every comment will guide you step-by-step to learn VPython easily.
 (NOTE: To Learn VPython, you must at least have basic knowledge of Python programming.)
 
-To Learn vpython in-depth:
+To Learn VPython in-depth:
+https://www.glowscript.org/docs/VPythonDocs/index.html
 
 Want to know about VPython? Then refer to this :
-
+https://en.wikipedia.org/wiki/VPython
 
 Happy Learning :)
