@@ -20,6 +20,46 @@ Before diving into VPython, you should have:
 
 ---
 
+## 📘 How This Repo Helps You
+
+Each notebook:
+- ✅ Covers a **specific VPython concept**
+- ✅ Has **step-by-step comments** to guide you like a tutor 👨‍🏫
+- ✅ Is written in **simple, beginner-friendly language**
+
+🧪 You’ll be building things like:
+- 🧊 3D shapes (spheres, boxes, cones, etc.)
+- ⚙️ Simple physical simulations (projectiles, orbits)
+- 🧲 Real-world visualizations (magnetism, springs, collisions)
+
+---
+
+## 📂 Folder Structure
+
+<details> <summary>📁 Click to expand folder structure</summary>
+  
+```bash
+📁 VPython-Learning-Notebooks/
+├── vpython_001.ipynb  - Intro to basics
+├── vpython_002.ipynb  - Basic animation
+├── vpython_003.ipynb  - Bouncing Ball 3D animation
+├── vpython_004.ipynb  - Animating by changing Dimensions
+├── vpython_005.ipynb  - Thermometer 3D animation
+├── vpython_006.ipynb  - Non-blocking dual animation
+├── vpython_007.ipynb  - Mixing colors
+├── vpython_008.ipynb  - Continuously color varying Orb
+├── vpython_009.ipynb  - Orientation and Axis
+├── vpython_010.ipynb  - Analog clock 3D animation
+├── vpython_011.ipynb  - Acuurate analog clock 3D animation
+├── vpython_012.ipynb  - Adding Labels and Text
+├── vpython_013.ipynb  - Widgets
+└── ...
+```
+
+</details>
+
+---
+
 ## ✅ Requirements
 
 To run these VPython notebooks, make sure you have the following installed:
@@ -67,47 +107,7 @@ pip install vpython
   <p> 🔗 https://www.anaconda.com/download </p>
   <p>Or </p>
 - VS Code – better notebook experience
-
----
-
-## 📘 How This Repo Helps You
-
-Each notebook:
-- ✅ Covers a **specific VPython concept**
-- ✅ Has **step-by-step comments** to guide you like a tutor 👨‍🏫
-- ✅ Is written in **simple, beginner-friendly language**
-
-🧪 You’ll be building things like:
-- 🧊 3D shapes (spheres, boxes, cones, etc.)
-- ⚙️ Simple physical simulations (projectiles, orbits)
-- 🧲 Real-world visualizations (magnetism, springs, collisions)
-
----
-
-## 📂 Folder Structure
-
-<details> <summary>📁 Click to expand folder structure</summary>
-  
-```bash
-📁 VPython-Learning-Notebooks/
-├── vpython_001.ipynb  - Intro to basicsr
-├── vpython_002.ipynb  - Basic animation
-├── vpython_003.ipynb  - Bouncing Ball 3D animation
-├── vpython_004.ipynb  - Animating by changing Dimensions
-├── vpython_005.ipynb  - Thermometer 3D animation
-├── vpython_006.ipynb  - Non-blocking dual animation
-├── vpython_007.ipynb  - Mixing colors
-├── vpython_008.ipynb  - Continuously color varying Orb
-├── vpython_009.ipynb  - Orientation and Axis
-├── vpython_010.ipynb  - Analog clock 3D animation
-├── vpython_011.ipynb  - Acuurate analog clock 3D animation
-├── vpython_012.ipynb  - Adding Labels and Text
-├── vpython_013.ipynb  - Widgets
-└── ...
-```
-
-</details>
-
+- 
 ---
 
 ## 🔍 Know More About VPython
