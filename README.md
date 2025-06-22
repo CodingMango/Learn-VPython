@@ -10,6 +10,8 @@ Welcome to this curated collection of **Jupyter Notebooks** designed to help you
 
 **VPython** (Visual Python) allows you to create **3D animations and simulations** easily using Python. It's perfect for physics visualizations, simulations, and interactive environments.
 
+![Image](https://github.com/user-attachments/assets/3aaa9737-0967-4c07-b6c4-ecf5391a39dd)
+
 https://github.com/user-attachments/assets/3e388a43-658f-448d-81b3-ae3a839ef833
 
 ---
@@ -34,8 +36,8 @@ Before diving into VPython, you should have:
 ├── vpython_004.ipynb  - Animating by changing Dimensions
 ├── vpython_005.ipynb  - Thermometer 3D animation
 ├── vpython_006.ipynb  - Non-blocking dual animation
-├── vpython_007.ipynb  - Mixing colors
-├── vpython_008.ipynb  - Continuously color varying Orb
+├── vpython_007.ipynb  - Mixing colours
+├── vpython_008.ipynb  - Continuously colour varying Orb
 ├── vpython_009.ipynb  - Orientation and Axis
 ├── vpython_010.ipynb  - Analog clock 3D animation
 ├── vpython_011.ipynb  - Accurate analog clock 3D animation
@@ -54,11 +56,15 @@ Each notebook:
 - ✅ Covers a **specific VPython concept**
 - ✅ Has **step-by-step comments** to guide you like a tutor 👨‍🏫
 - ✅ Is written in **simple, beginner-friendly language**
+  
+![Image](https://github.com/user-attachments/assets/2839d1d2-b330-4698-b4f1-83dac7d899e5)
 
 🧪 You’ll be building things like:
 - 🧊 3D shapes (spheres, boxes, cones, etc.)
 - ⚙️ Simple physical simulations (projectiles, orbits)
-- 🧲 Real-world visualizations (magnetism, springs, collisions)
+- 🧲 Real-world visualisations (magnetism, springs, collisions)
+
+![Image](https://github.com/user-attachments/assets/f38730b3-4cca-4396-9030-aaf69d72f6c3)
 
 ---
 
@@ -125,6 +131,10 @@ pip install vpython
 - 🎥 **Search YouTube for VPython Tutorials:**  
   Visual learners can find dozens of tutorials demonstrating simulations like orbits, bouncing balls, pendulums, etc.  
   Try searching: `vpython tutorial for beginners`
+  
+![Image](https://github.com/user-attachments/assets/fa6f1214-ae99-402d-936f-34001cb3fbaf)
+
+https://github.com/user-attachments/assets/5055cdfc-80d5-40c3-a8e7-50a16119fedb
 
   ---
 
