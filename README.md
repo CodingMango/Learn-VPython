@@ -10,6 +10,8 @@ Welcome to this curated collection of **Jupyter Notebooks** designed to help you
 
 **VPython** (Visual Python) allows you to create **3D animations and simulations** easily using Python. It's perfect for physics visualizations, simulations, and interactive environments.
 
+https://github.com/user-attachments/assets/3e388a43-658f-448d-81b3-ae3a839ef833
+
 ---
 
 ## 🧠 Prerequisites
@@ -17,20 +19,6 @@ Welcome to this curated collection of **Jupyter Notebooks** designed to help you
 Before diving into VPython, you should have:
 - ✅ Basic knowledge of **Python programming**
 - ✅ Curiosity and enthusiasm to build visual simulations!
-
----
-
-## 📘 How This Repo Helps You
-
-Each notebook:
-- ✅ Covers a **specific VPython concept**
-- ✅ Has **step-by-step comments** to guide you like a tutor 👨‍🏫
-- ✅ Is written in **simple, beginner-friendly language**
-
-🧪 You’ll be building things like:
-- 🧊 3D shapes (spheres, boxes, cones, etc.)
-- ⚙️ Simple physical simulations (projectiles, orbits)
-- 🧲 Real-world visualizations (magnetism, springs, collisions)
 
 ---
 
@@ -50,13 +38,27 @@ Each notebook:
 ├── vpython_008.ipynb  - Continuously color varying Orb
 ├── vpython_009.ipynb  - Orientation and Axis
 ├── vpython_010.ipynb  - Analog clock 3D animation
-├── vpython_011.ipynb  - Acuurate analog clock 3D animation
+├── vpython_011.ipynb  - Accurate analog clock 3D animation
 ├── vpython_012.ipynb  - Adding Labels and Text
 ├── vpython_013.ipynb  - Widgets
 └── ...
 ```
 
 </details>
+
+---
+
+## 📘 How This Repo Helps You
+
+Each notebook:
+- ✅ Covers a **specific VPython concept**
+- ✅ Has **step-by-step comments** to guide you like a tutor 👨‍🏫
+- ✅ Is written in **simple, beginner-friendly language**
+
+🧪 You’ll be building things like:
+- 🧊 3D shapes (spheres, boxes, cones, etc.)
+- ⚙️ Simple physical simulations (projectiles, orbits)
+- 🧲 Real-world visualizations (magnetism, springs, collisions)
 
 ---
 
@@ -107,7 +109,7 @@ pip install vpython
   <p> 🔗 https://www.anaconda.com/download </p>
   <p>Or </p>
 - VS Code – better notebook experience
-- 
+
 ---
 
 ## 🔍 Know More About VPython
