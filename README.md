@@ -10,9 +10,7 @@ Welcome to this curated collection of **Jupyter Notebooks** designed to help you
 
 **VPython** (Visual Python) allows you to create **3D animations and simulations** easily using Python. It's perfect for physics visualizations, simulations, and interactive environments.
 
-![Image](https://github.com/user-attachments/assets/3aaa9737-0967-4c07-b6c4-ecf5391a39dd)
-
-https://github.com/user-attachments/assets/3e388a43-658f-448d-81b3-ae3a839ef833
+![Image](https://github.com/user-attachments/assets/5565f5e6-354a-445c-abcf-6816b8f2dc24)
 
 ---
 
@@ -64,7 +62,7 @@ Each notebook:
 - ⚙️ Simple physical simulations (projectiles, orbits)
 - 🧲 Real-world visualisations (magnetism, springs, collisions)
 
-![Image](https://github.com/user-attachments/assets/f38730b3-4cca-4396-9030-aaf69d72f6c3)
+![Image](https://github.com/user-attachments/assets/488138d8-ef28-409e-874a-a7071c4e0e91)
 
 ---
 
@@ -132,9 +130,7 @@ pip install vpython
   Visual learners can find dozens of tutorials demonstrating simulations like orbits, bouncing balls, pendulums, etc.  
   Try searching: `vpython tutorial for beginners`
   
-![Image](https://github.com/user-attachments/assets/fa6f1214-ae99-402d-936f-34001cb3fbaf)
-
-https://github.com/user-attachments/assets/5055cdfc-80d5-40c3-a8e7-50a16119fedb
+![Image](https://github.com/user-attachments/assets/6e382ff0-b11b-4eca-bff3-01e9d737524a)
 
   ---
 
