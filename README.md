@@ -22,29 +22,32 @@ Before diving into VPython, you should have:
 
 ---
 
-## 📂 Folder Structure
+## 📂 Project Folder Structure
 
-<details> <summary>📁 Click to expand folder structure</summary>
-  
-```bash
-📁 VPython-Learning-Notebooks/
-├── vpython_001.ipynb  - Intro to basics
-├── vpython_002.ipynb  - Basic animation
-├── vpython_003.ipynb  - Bouncing Ball 3D animation
-├── vpython_004.ipynb  - Animating by changing Dimensions
-├── vpython_005.ipynb  - Thermometer 3D animation
-├── vpython_006.ipynb  - Non-blocking dual animation
-├── vpython_007.ipynb  - Mixing colours
-├── vpython_008.ipynb  - Continuously colour varying Orb
-├── vpython_009.ipynb  - Orientation and Axis
-├── vpython_010.ipynb  - Analog clock 3D animation
-├── vpython_011.ipynb  - Accurate analog clock 3D animation
-├── vpython_012.ipynb  - Adding Labels and Text
-├── vpython_013.ipynb  - Widgets
-└── ...
+> 🧭 **Explore the learning path below!** Each notebook builds on the last to help you master VPython step by step.  
+> ⬇️ Click the dropdown to view the full folder structure:
+
+<details open>
+  <summary><strong>📁 Click here to expand/collapse the structure</strong></summary>
+
+```plaintext
+VPython-Learning-Notebooks/
+├── vpython_001.ipynb  → Intro to basics
+├── vpython_002.ipynb  → Basic animation
+├── vpython_003.ipynb  → Bouncing Ball 3D animation
+├── vpython_004.ipynb  → Animating by changing Dimensions
+├── vpython_005.ipynb  → Thermometer 3D animation
+├── vpython_006.ipynb  → Non-blocking dual animation
+├── vpython_007.ipynb  → Mixing colours
+├── vpython_008.ipynb  → Continuously colour varying Orb
+├── vpython_009.ipynb  → Orientation and Axis
+├── vpython_010.ipynb  → Analog clock 3D animation
+├── vpython_011.ipynb  → Accurate analog clock 3D animation
+├── vpython_012.ipynb  → Adding Labels and Text
+├── vpython_013.ipynb  → Widgets
+└── ...                → More to come!
 ```
-
-</details>
+</details> 
 
 ---
 
@@ -108,6 +111,9 @@ vpython – for 3D simulations
 ```bash
 pip install vpython
 ```
+
+---
+
 ## 💡 Optional but Helpful
 - Anaconda Distribution – includes Python, Jupyter, and many scientific packages
   <p> 🔗 https://www.anaconda.com/download </p>
