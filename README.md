@@ -53,7 +53,7 @@ Each notebook:
 - ✅ Has **step-by-step comments** to guide you like a tutor 👨‍🏫
 - ✅ Is written in **simple, beginner-friendly language**
   
-![Image](https://github.com/user-attachments/assets/2839d1d2-b330-4698-b4f1-83dac7d899e5)
+<img width="1100" height="541" alt="Image" src="https://github.com/user-attachments/assets/b91024b7-e15e-4bad-aefc-63875d5d5bbc" />
 
 🧪 You’ll be building things like:
 - 🧊 3D shapes (spheres, boxes, cones, etc.)
