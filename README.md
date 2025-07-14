@@ -22,32 +22,27 @@ Before diving into VPython, you should have:
 
 ---
 
-## 📂 Project Folder Structure
-
-> 🧭 **Explore the learning path below!** Each notebook builds on the last to help you master VPython step by step.  
-> ⬇️ Click the dropdown to view the full folder structure:
-
+## 📄 Notebook List
 <details open>
-  <summary><strong>📁 Click here to expand/collapse the structure</strong></summary>
+<summary>👆Click to close Notebook List</summary>
 
-```plaintext
-VPython-Learning-Notebooks/
-├── vpython_001.ipynb  → Intro to basics
-├── vpython_002.ipynb  → Basic animation
-├── vpython_003.ipynb  → Bouncing Ball 3D animation
-├── vpython_004.ipynb  → Animating by changing Dimensions
-├── vpython_005.ipynb  → Thermometer 3D animation
-├── vpython_006.ipynb  → Non-blocking dual animation
-├── vpython_007.ipynb  → Mixing colours
-├── vpython_008.ipynb  → Continuously colour varying Orb
-├── vpython_009.ipynb  → Orientation and Axis
-├── vpython_010.ipynb  → Analog clock 3D animation
-├── vpython_011.ipynb  → Accurate analog clock 3D animation
-├── vpython_012.ipynb  → Adding Labels and Text
-├── vpython_013.ipynb  → Widgets
-└── ...                → More to come!
-```
-</details> 
+
+1. `001-intro-to-basics.ipynb` - You will learn the basics of vpython
+2. `002-basic-animations.ipynb` - How to animate things (objects)
+3. `003-bouncing-ball.ipynb` - Bouncing ball 3D animation (very simple logic)
+4. `004-animating-by-changing-dimensions.ipynb` - Another way of animating the objects
+5. `005-thermometer-3d.ipynb` - Thermometer 3D animation
+6. `006-non-blocking-dual-animation.ipynb` - Animating objects at the same time (without using threading)
+7. `007-mixing-colours.ipynb` - To get and unleash the new colors
+8. `008-colour-varying-orb.ipynb` - Understanding the RGB
+9. `009-orientation-axis.ipynb` - Know the difference between oreintation and axis
+10. `010-analog-clock.ipynb` - Analog clock 3D animation
+11. `011-accurate-analog-clock.ipynb` - Accurate analog clock using Time Module
+12. `012-labels-and-text.ipynb` - Labels and texts
+13. `013-widgets.ipynb` - Widgets to vary the parameters instantly during the animation
+
+and many more to come...
+</details>
 
 ---
 
@@ -114,11 +109,18 @@ pip install vpython
 
 ---
 
-## 💡 Optional but Helpful
-- Anaconda Distribution – includes Python, Jupyter, and many scientific packages
-  <p> 🔗 https://www.anaconda.com/download </p>
-  <p>Or </p>
-- VS Code – better notebook experience
+## ⚙️ Optional but Useful Tools
+
+> 💡 While not strictly required, these tools can enhance your VPython learning experience!
+>  **You only need one of these options below. Choose whichever suits you best!**
+
+- 🐍 **Anaconda Distribution**  
+  Combines Python, Jupyter, and many scientific libraries into a single, easy-to-install package.  
+  👉 [Download Anaconda](https://www.anaconda.com/download)
+
+- 💻 **Visual Studio Code (VS Code)**  
+  A powerful, lightweight code editor with support for Jupyter notebooks through extensions.  
+  👉 [Download VS Code](https://code.visualstudio.com/)
 
 ---
 
