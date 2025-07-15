@@ -40,7 +40,8 @@ Before diving into VPython, you should have:
 11. `011-accurate-analog-clock.ipynb` - Accurate analog clock using Time Module
 12. `012-labels-and-text.ipynb` - Labels and texts
 13. `013-widgets.ipynb` - Widgets to vary the parameters instantly during the animation
-
+14. `014-thousand-cubes.py` - A mind exercise to understand the colors and object positioning
+    
 and many more to come...
 </details>
 
