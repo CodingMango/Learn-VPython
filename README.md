@@ -4,9 +4,11 @@ Welcome to this curated collection of **Jupyter Notebooks** designed to help you
 
 > ✍️ _Some notebooks are created from scratch, while others are inspired by or adapted from online sources like YouTube tutorials and blogs. All are commented thoroughly to help you understand VPython easily._
 
-### 🚀 Run this project instantly (no installation required)
+---
 
-👉 Click the badge below to launch interactive notebooks in your browser:
+## 🚀 Run this project instantly (no installation required)
+
+😊 Click the **Binder badge** below to launch interactive notebooks in your browser:
 
 <p align="center">
   <a href="https://mybinder.org/v2/gh/CodingMango/Learn-VPython/main">
