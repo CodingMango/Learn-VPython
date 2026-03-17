@@ -1,0 +1,4 @@
+vpython
+notebook
+numpy
+time
