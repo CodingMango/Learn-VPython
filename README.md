@@ -39,7 +39,7 @@ Before diving into VPython, you should have:
 <summary>👆Click to close Notebook List</summary>
 
 
-1. `001-intro-to-basics.ipynb` - You will learn the basics of vpython
+1. `001-intro-to-basics.ipynb` - You will learn the basics of VPython.
 2. `002-basic-animations.ipynb` - How to animate things (objects)
 3. `003-bouncing-ball.ipynb` - Bouncing ball 3D animation (very simple logic)
 4. `004-animating-by-changing-dimensions.ipynb` - Another way of animating the objects
@@ -47,13 +47,15 @@ Before diving into VPython, you should have:
 6. `006-non-blocking-dual-animation.ipynb` - Animating objects at the same time (without using threading)
 7. `007-mixing-colours.ipynb` - To get and unleash the new colors
 8. `008-colour-varying-orb.ipynb` - Understanding the RGB
-9. `009-orientation-axis.ipynb` - Know the difference between oreintation and axis
+9. `009-orientation-axis.ipynb` - Know the difference between orientation and axis
 10. `010-analog-clock.ipynb` - Analog clock 3D animation
 11. `011-accurate-analog-clock.ipynb` - Accurate analog clock using Time Module
 12. `012-labels-and-text.ipynb` - Labels and texts
 13. `013-widgets.ipynb` - Widgets to vary the parameters instantly during the animation
 14. `014-thousand-cubes.py` - A mind exercise to understand the colors and object positioning
-    
+14.1. `014_thousand_cubes.ipynb` - The same 014-thousand-cubes.py file but with step-by-step guidance.
+15. `015_em_planewave_vector` - The EM plane wave is visualised to understand it conceptually rather than memorising.
+ 
 and many more to come...
 </details>
 
